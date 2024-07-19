@@ -4,5 +4,3 @@ numpy
 plotly
 scikit-learn
 prophet
-
-watchdog==4.0.1
